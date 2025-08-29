@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats-tawny-five-83.vercel.app/api/top-langs/?username=xl4624&exclude_repo=github-readme-stats,dotfiles&custom_title=Hi%20there%20%F0%9F%91%8B&layout=compact&card_width=350)](https://github.com/xl4624)
+[![Top Langs](https://github-readme-stats-tawny-five-83.vercel.app/api/top-langs/?username=xl4624&exclude_repo=github-readme-stats,dotfiles,sQR,multiplayer-chess&custom_title=Hi%20there%20%F0%9F%91%8B&layout=compact&card_width=350)](https://github.com/xl4624)
 
 <!--
 **xl4624/xl4624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
